@@ -11,6 +11,7 @@ pipeline {
                     who am i
                     df -kh
                     pwd
+                    sh /var/lib/jenkins/workspace/Pipeline_From_Git/shell1.sh
                     
                    
                 '''
