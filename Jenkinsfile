@@ -10,10 +10,8 @@ pipeline {
                     whoami
                     who am i
                     df -kh
-                    hostname -i
-                    hostname
-                    date
-                    cd /root/Scripts ; pwd
+                    sudo su -
+                    sh /root/Scripts/shell1.sh
                    
                 '''
             }
