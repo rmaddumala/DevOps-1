@@ -13,6 +13,8 @@ pipeline {
                     hostname -i
                     hostname
                     date
+                    pwd
+                   
                 '''
             }
         }
