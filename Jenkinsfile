@@ -13,7 +13,7 @@ pipeline {
                     hostname -i
                     hostname
                     date
-                    cd /root/scripts
+                    cd /root/Scripts
                     ./shell1.sh
                    
                 '''
