@@ -10,6 +10,7 @@ pipeline {
                     whoami
                     who am i
                     df -kh
+                    pwd
                     
                    
                 '''
