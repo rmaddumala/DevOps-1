@@ -10,8 +10,7 @@ pipeline {
                     whoami
                     who am i
                     df -kh
-                    sudo su -
-                    sh /root/Scripts/shell1.sh
+                    
                    
                 '''
             }
